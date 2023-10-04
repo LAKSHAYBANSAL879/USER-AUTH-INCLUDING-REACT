@@ -1,0 +1,9 @@
+.App {
+ 
+  background:linear-gradient(135deg,rgb(220, 189, 230),rgb(24, 127, 186));
+  width: fit-content;
+  height: fit-content;
+  padding: 20px;
+  margin-top: 20vh;
+  font-size: 26px;
+}

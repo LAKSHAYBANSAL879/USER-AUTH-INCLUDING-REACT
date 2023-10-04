@@ -1,0 +1,27 @@
+h5{
+    text-align: center;
+    font-size: 45px;
+}
+#name,#email,#password,#confirmPassword{
+    margin-left: 1vw;
+    font-size: 20px;
+    border-radius: 12px;
+    border: 1px solid black;
+    padding: 5px;
+    margin-top: 1vh;
+}
+#submit{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 8vw;
+    margin-top: 2vh;
+    width: fit-content;
+    height: fit-content;
+    padding: 7px;
+    border-radius: 18px;
+    font-size: 21px;
+    background-color: rgb(211, 160, 240);
+    font-weight: bold;
+    cursor: pointer;
+}
